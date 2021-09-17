@@ -1,4 +1,4 @@
-I'm a Sr. Principal Technical Marketing Manager at [Red Hat](https://www.redhat.com), focusing on Application Development technologies such as [Quarkus](https://quarkus.io), [Spring Boot](https://spring.io/projects/spring-boot), as well as the rest of [Red Hat's Runtimes portfolio](https://www.redhat.com/en/products/runtimes).
+I'm a Sr. Principal Technical Marketing Manager / Developer Advocate at [Red Hat](https://www.redhat.com), focusing on Application Development technologies such as [Quarkus](https://quarkus.io), [Spring Boot](https://spring.io/projects/spring-boot), as well as the rest of [Red Hat's Runtimes portfolio](https://www.redhat.com/en/products/runtimes).
 
 Prior to joining Red Hat, I spent many years in the financial services & insurance industries. I also enjoy contributing to various open source project, including my own [XJC Gradle Plugin](https://github.com/edeandrea/xjc-generation-gradle-plugin).
 
