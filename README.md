@@ -12,3 +12,5 @@ Find me in these public channels:
 - BlueSky: [@ericdeandrea.dev](https://bsky.app/profile/ericdeandrea.dev)
 - LinkedIn: https://www.linkedin.com/in/edeandrea
 - X/Twitter: [@edeandrea](https://x.com/edeandrea)
+
+![My GitHub contribution city](https://raw.githubusercontent.com/edeandrea/edeandrea/output/contribution-city.svg)
